@@ -1,0 +1,12 @@
+{
+  "name": "tictactoe",
+  "description": "tictactoe game powered by Node.JS and bootsrap",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "node-static": "0.6.1",
+    "dot": "0.2.6",
+    "cookies": "0.3.1"
+  }
+}
+
